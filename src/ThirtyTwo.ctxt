@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ThirtyTwo
+comment1.params=
+comment1.target=ThirtyTwo()
+comment2.params=
+comment2.target=boolean\ combineUp()
+comment3.params=
+comment3.target=boolean\ combineDown()
+comment4.params=
+comment4.target=boolean\ combineRight()
+comment5.params=
+comment5.target=boolean\ combineLeft()
+numComments=6

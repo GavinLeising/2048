@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=KeyWorld
+comment1.params=g
+comment1.target=KeyWorld(info.gridworld.grid.Grid)
+comment2.params=description\ loc
+comment2.target=boolean\ keyPressed(java.lang.String,\ info.gridworld.grid.Location)
+numComments=3
